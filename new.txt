@@ -3,3 +3,6 @@ git pull - it is used to pull the changes from git hub server to the desktop
 git add - it is used to add a new file to the github branch
 git commit -m - it is used to commit the changes in the desktop to the server with a commit message enclosed in the aphostrohies
 git stauts - it is used to know the stutus of the files in the github repository
+
+in this class we have learned how to use command to make changes into the github repository by using various command s
+such as the git pull git push git status git add git commit -m and also about vim editor.
